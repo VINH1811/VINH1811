@@ -6,11 +6,77 @@
 
   <br/>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/trinh-van-hao/)
-  [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/VINH1811)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF6B6B)](https://github.com/VINH1811)
-  
-  <img src="https://komarev.com/ghpvc/?username=VINH1811&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+<img src="https://img.shields.io/badge/🔥_Status-Open_to_Work-success?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/📍_Location-Hanoi%2C_Vietnam-00D9FF?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/💬_Language-EN%20%7C%20VI-blueviolet?style=for-the-badge&labelColor=0D1117" />
+
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/trinh-van-hao/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/VINH1811)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF6B6B)](https://github.com/VINH1811)
+[![Email](https://img.shields.io/badge/Email-Say_Hi!-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:vinhroy1811@gmail.com)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=VINH1811&color=00D9FF&style=for-the-badge&label=👁️+Profile+Views" />
+
+</div>
+
+---
+
+## 🎯 About Me
+
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif"/>
+
+<br/>
+
+**Hey there! I'm Vinh 👋**
+
+A passionate **Full-Stack Developer** from Hanoi 🇻🇳 who loves crafting elegant solutions to complex problems. I thrive at the intersection of **Web Development**, **Artificial Intelligence**, and **Blockchain** — always chasing the next big idea.
+
+- 🎓 &nbsp;Studying **Information Technology** — graduating soon!
+- 🔭 &nbsp;Currently building **AI-powered Web Apps** & exploring **DeFi**
+- 🌱 &nbsp;Deep-diving into **System Design** & **Advanced Smart Contracts**
+- 💡 &nbsp;Passionate about **Open Source** and sharing knowledge
+- ⚡ &nbsp;Fun fact: I debug with `console.log()` and I'm proud of it 😄
+
+<br clear="right"/>
+
+```typescript
+class VinhNguyen extends Developer {
+  readonly name    = "Nguyễn Văn Vinh";
+  readonly role    = "Full-Stack Developer · AI Enthusiast · Blockchain Explorer";
+  readonly base    = "Hanoi, Vietnam 🇻🇳";
+
+  skills = {
+    languages  : ["TypeScript", "Python", "Solidity", "SQL"],
+    frontEnd   : ["React", "Vue.js", "Flutter", "TailwindCSS"],
+    backEnd    : ["Node.js", "ASP.NET Core", "FastAPI", "GraphQL"],
+    database   : ["PostgreSQL", "MongoDB", "Redis", "Firebase"],
+    ai_ml      : ["TensorFlow", "PyTorch", "YOLO", "scikit-learn"],
+    blockchain : ["Ethereum", "Solidity", "Hardhat", "Web3.js"],
+    devOps     : ["Docker", "Linux", "CI/CD", "AWS"],
+  };
+
+  currentlyLearning = ["Advanced System Design", "ZK Proofs", "LLM Fine-tuning"];
+
+  collaborate(idea: string): Promise<string> {
+    return Promise.resolve(`✅ Let's build "${idea}" together! 🚀`);
+  }
+
+  quote(): string {
+    return `"First, solve the problem. Then, write the code." – John Johnson`;
+  }
+}
+
+const me = new VinhNguyen();
+me.collaborate("your next big idea"); // <- reach out anytime!
+```
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Don't%20wait%20for%20opportunity%20—%20create%20it&author=Unknown" alt="Quote" />
 
 </div>
 
@@ -18,38 +84,15 @@
 
 ## 📊 GitHub Analytics
 
-<!-- <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=VINH1811&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
-</div> -->
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VINH1811&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph" />
-</div>
-
----
-
-## 🎯 About Me
-
-```typescript
-const nguyenvanvinh = {
-    location: "Hanoi, Vietnam 🇻🇳",
-    education: "Information Technology Student",
-    currentFocus: ["Web Development", "Artificial Intelligence", "Blockchain"],
-    askMeAbout: ["Web Dev", "AI/ML", "DApps", "Data Analysis"],
-    technologies: {
-        frontEnd: ["React", "Vue.js", "Flutter", "HTML5", "CSS3"],
-        backEnd: ["Node.js", "ASP.NET Core", "Python", "Express"],
-        database: ["MongoDB", "PostgreSQL", "MySQL", "Firebase"],
-        ai_ml: ["TensorFlow", "PyTorch", "YOLO", "NLP"],
-        devOps: ["Docker", "Git", "Linux", "CI/CD"]
-    },
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
-};
-```
-
 <div align="center">
 
-### 💡 "Don't wait for opportunity — create it" – Unknown
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/VINH1811/VINH1811/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VINH1811/VINH1811/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/VINH1811/VINH1811/output/github-snake-dark.svg" />
+</picture>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VINH1811&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF" alt="Contribution Graph" />
 
 </div>
 
@@ -60,7 +103,7 @@ const nguyenvanvinh = {
 <div align="center">
 
 ### 🎨 Frontend Development
-  
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -251,8 +294,8 @@ AI-powered job matching platform connecting talents with opportunities.
 ### Let's connect and build something amazing together! 🚀
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trinh-van-hao/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trinhvanhao@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Trinhvhao)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinhroy1811@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VINH1811)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/trinhvanhao)
 
 ### 💬 Open for Collaboration
@@ -266,7 +309,7 @@ I'm always excited to work on innovative projects and connect with fellow develo
 ---
 
 <div align="center">
-  
+
 ### ⭐ Show some love by starring my repositories!
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
