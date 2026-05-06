@@ -10,7 +10,7 @@
   [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/VINH1811)
   [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF6B6B)](https://github.com/VINH1811)
   
-  <img src="https://komarev.com/ghpvc/?username=Trinhvhao&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=VINH1811&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 
 </div>
 
@@ -19,11 +19,11 @@
 ## 📊 GitHub Analytics
 
 <!-- <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Trinhvhao&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=VINH1811&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
 </div> -->
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Trinhvhao&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VINH1811&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph" />
 </div>
 
 ---
@@ -40,7 +40,6 @@ const nguyenvanvinh = {
         frontEnd: ["React", "Vue.js", "Flutter", "HTML5", "CSS3"],
         backEnd: ["Node.js", "ASP.NET Core", "Python", "Express"],
         database: ["MongoDB", "PostgreSQL", "MySQL", "Firebase"],
-        blockchain: ["Solidity", "Ethereum", "Web3.js"],
         ai_ml: ["TensorFlow", "PyTorch", "YOLO", "NLP"],
         devOps: ["Docker", "Git", "Linux", "CI/CD"]
     },
