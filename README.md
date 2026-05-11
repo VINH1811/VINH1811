@@ -2,7 +2,7 @@
   
   ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Nguyễn%20Văn%20Vinh&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Full-Stack%20Developer%20|%20AI%20Enthusiast%20|%20Blockchain%20Explorer&descAlignY=55&descSize=18)
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+Digital+Space+%F0%9F%9A%80;Full-Stack+Developer+%F0%9F%92%BB;AI+%26+Blockchain+Enthusiast+%F0%9F%A4%96;Building+the+Future+%F0%9F%8C%9F;Let's+Code+Together!+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+Digital+Space+%F0%9F%9A%80;Full-Stack+Developer+%F0%9F%92%BB;AI+%26+Building+the+Future+%F0%9F%8C%9F;Let's+Code+Together!+%F0%9F%94%A5" alt="Typing SVG" />
 
   <br/>
 
