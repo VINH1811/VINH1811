@@ -92,7 +92,7 @@ me.collaborate("your next big idea"); // <- reach out anytime!
   <img alt="github-snake" src="https://raw.githubusercontent.com/VINH1811/VINH1811/output/github-snake-dark.svg" />
 </picture>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VINH1811&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF" alt="Contribution Graph" />
+
 
 </div>
 
